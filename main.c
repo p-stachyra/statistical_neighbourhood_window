@@ -8,6 +8,7 @@ void visualizeCells(FILE * filepointer);
 int main() {
     FILE * fp = NULL;
     double mean_value = 0;
+    int available_values = 0;
 
     /* open the file which the output will be written to */
     fp = fopen("report.txt", "w");
