@@ -1,0 +1,12 @@
+
+
+[ # ] THE VISUALIZATION OF THE PROBLEM:
+
+  #    #    #  
+  #    ?    #  
+  #    #    #  
+[***] The question mark must be replaced with a mean value for other cells.
+[***] Although, other cells may contain missing value and may not be included in the computation.
+[***] Therefore, a variadic function was used to account for the variability of the number of arguments.
+
+[ # ] The mean value to replace the missing value: 7.375000
